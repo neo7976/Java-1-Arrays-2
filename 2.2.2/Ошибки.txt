@@ -1,0 +1,12 @@
+//        for (int i = 0; i < SIZE; i++) {
+//            for (int j = 0; j < SIZE; j++) {
+//                if (field[i][i] == player)
+//                    numb++;
+//            }
+//            if (numb == SIZE)
+//                return true;
+//            else
+//                numb = 0;
+//        }
+
+Код проверяет одну значения и на первом же вводе выигрывает игрок
